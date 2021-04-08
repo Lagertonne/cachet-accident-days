@@ -1,4 +1,4 @@
-# days_since_last_accident.py
+# days_without_accident.py
 ## Description
 This is a simple script that returns the days since the last entry from a Cachet-Status-Page.
 
